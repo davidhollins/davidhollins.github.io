@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "David Hollins",
+    "occupation": "technology leader and ocassional developer",
+    "description": "Currently, I am a Director of Software Engineering @ Axcess Financial",
+    "image": "profilepic.jpg",
+    "bio": "I am a Family man, a Disney Fan, Serial Entrepreneur, and striving to be Real Estate Investor",
+    "contactmessage": "Have an interesting opportunity, want to just connect, let me know.",
+    "email": "david.hollins.2@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "zip": ""
+    },
+    "website": "http://www.davidhollins.com",
+    "resumedownload": "http://davidhollins.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/davidhollins",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/davidhollins/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/david.hollins.2/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/davidhollins/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Wilmington College",
+        "degree": "Bachelors in Computer Information Systems",
+        "graduated": "April 2007",
+        "description": "Business & Technology Focus"
+      }
+    ],
+    "work": [
+      {
+        "company": "Axcess Financial",
+        "title": "Director of Software Engineering ",
+        "years": "September 2018 - Present",
+        "description": "Lead and manage web/mobile teams, drive business value through stories, mentor developers and occasionally do some development (not as much as I would like to though)."
+      },
+      {
+        "company": "Pure Romance",
+        "title": "Vice President of Software Development",
+        "years": "August 2015 - September 2018",
+        "description": "Responsible for all wholesale and retail websites, mobile application, multi-system integrations and Pure Romance technical lead on SAP implementation."
+      },
+      {
+        "company": "Centric Consulting",
+        "title": "Senior Architect",
+        "years": "November 2012 - August 2015",
+        "description": "Technical lead on multiple projects from websites, Enterprise Service Bus (ESB), ScrumMaster, and Data Warehousing"
+      }
+    ],
+    "skillmessage": "Primary technology related skills:",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": ".NET",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "NServiceBus",
+        "level": "60%"
+      }
+    ]
+  }
+}

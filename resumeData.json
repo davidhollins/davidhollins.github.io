@@ -50,9 +50,15 @@
     ],
     "work": [
       {
+        "company": "Mach One Digital Corporation",
+        "title": "Co-Founder ",
+        "years": "June 2019 - Present",
+        "description": "Co-founder of an innovative digital consultancy specializing in producing value through technology for our partners."
+      },
+      {
         "company": "Axcess Financial",
         "title": "Director of Software Engineering ",
-        "years": "September 2018 - Present",
+        "years": "September 2018 - March 2020",
         "description": "Lead and manage web/mobile teams, drive business value through stories, mentor developers and occasionally do some development (not as much as I would like to though)."
       },
       {

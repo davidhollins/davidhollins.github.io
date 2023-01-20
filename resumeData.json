@@ -10,9 +10,9 @@
     "phone": "",
     "address": {
       "street": "",
-      "city": "Cincinnati",
-      "state": "Ohio",
-      "zip": ""
+      "city": "Winter Garden",
+      "state": "Florida",
+      "zip": "34787"
     },
     "website": "http://www.davidhollins.com",
     "resumedownload": "http://davidhollins.com",
@@ -78,19 +78,19 @@
     "skills": [
       {
         "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Node",
         "level": "50%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
         "level": "70%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "ReactNative",
+        "level": "70%"
       },
       {
         "name": ".NET",
@@ -105,8 +105,8 @@
         "level": "75%"
       },
       {
-        "name": "JavaScript",
-        "level": "60%"
+        "name": "graphQL",
+        "level": "50%"
       },
       {
         "name": "NServiceBus",
